@@ -1,0 +1,11 @@
+{
+  "name": "zenod",
+  "version": "0.1.0",
+  "description": "Memory you own: capture on WhatsApp, filed into your Markdown vault, recalled with citations.",
+  "mcpServers": {
+    "zenod": {
+      "httpUrl": "https://cloud.zenod.dev/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
