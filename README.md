@@ -2,9 +2,9 @@
 
 <img src="icon.png" width="96" alt="Zenod">
 
-**Zenod — memory you own, fed from WhatsApp.**
+**Zenod — the AI librarian of your memory**
 
-Send notes and voice memos on WhatsApp; Zenod files them into a Markdown vault you own on GitHub or Google Drive and answers from it with sources.
+Zenod keeps your memory for you: it takes in what you send by WhatsApp, voice note or any AI tool over MCP, files it as Markdown you own in GitHub or Google Drive, and lets any agent recall it with sources.
 
 ## Install
 

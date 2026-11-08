@@ -1,7 +1,7 @@
 {
   "name": "zenod",
-  "version": "0.1.0",
-  "description": "Memory you own: capture on WhatsApp, filed into your Markdown vault, recalled with citations.",
+  "version": "0.2.0",
+  "description": "Zenod keeps your memory for you: it takes in what you send by WhatsApp, voice note or any AI tool over MCP, files it as Markdown you own in GitHub or Google Drive, and lets any agent recall it with sources.",
   "mcpServers": {
     "zenod": {
       "httpUrl": "https://cloud.zenod.dev/mcp"
